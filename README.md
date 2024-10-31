@@ -6,4 +6,6 @@ For full details, visit the [BMRC HPC Documentation](https://bmrc-hpc-documentat
 
 ## Contributing
 
-Feedback and contributions are welcome! Please submit a pull request if you identify missing information or inaccuracies.
+Feedback and contributions are welcome!
+
+Please submit a pull request if you identify missing information or inaccuracies.
