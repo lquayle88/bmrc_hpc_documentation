@@ -21,7 +21,7 @@ Getting Help
 
 This user documentation was written by `Dr Lewis Quayle <https://www.shu.ac.uk/about-us/our-people/staff-profiles/lewis-quayle>`_ in the Department of Computing to address specific practical issues not covered by the `Alces OpenFlight HPC Knowledgebase <https://openflighthpc.org/latest/docs/>`_.
 
-If you cannot find answers to your problems using the :ref:`help`, :ref:`faqs` or the `Alces OpenFlight HPC Knowledgebase <https://openflighthpc.org/latest/docs/>`_, then please email `l.quayle@shu.ac.uk <mailto:l.quayle@shu.ac.uk>`_.
+If you cannot find answers to your problems using the help, faqs or the `Alces OpenFlight HPC Knowledgebase <https://openflighthpc.org/latest/docs/>`_, then please email `l.quayle@shu.ac.uk <mailto:l.quayle@shu.ac.uk>`_.
 
 
 Contribute to the Docs
@@ -35,7 +35,6 @@ If you think there is information missing or needs changing, consider contributi
    :hidden:
    :caption: User Guides
 
-   .. hpc/index
    nfcore/index
 
 .. toctree::
@@ -44,9 +43,7 @@ If you think there is information missing or needs changing, consider contributi
    :caption: Help
 
    glossary
-   .. help/index
-   .. faqs
-
+   
 .. toctree::
    :maxdepth: 1
    :hidden:
