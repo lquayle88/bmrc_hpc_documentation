@@ -7,9 +7,9 @@ version: 2
 
 # Sphinx documentation builder
 sphinx:
-  builder: html
-  configuration: conf.py
-  fail_on_warning: true
+   builder: html
+   configuration: conf.py
+   fail_on_warning: true
 
 # Optional but recommended, declare the Python requirements required
 # to build your documentation
