@@ -33,5 +33,5 @@ html_context = {
     "github_user": "lquayle88",
     "github_repo": "bmrc_hpc_documentation",
     "github_version": "main",
-    "conf_py_path": ".",
+    "conf_py_path": "/",
 }
