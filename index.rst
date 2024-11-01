@@ -27,7 +27,7 @@ If you cannot find answers to your problems using the help, :ref:`faqs` or the `
 Contribute to the Docs
 ----------------------
 
-If you think there is information missing or needs changing, consider contributing to this user documentation by making a pull request on the `GitHub repository <https://www.google.com>`_.
+If you think there is information missing or needs changing, consider contributing to this user documentation by making a pull request on the `GitHub repository <https://github.com/lquayle88/bmrc_hpc_documentation>`_.
 
 
 .. toctree::
