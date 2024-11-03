@@ -3,6 +3,10 @@
 BMRC HPC Cluster User Documentation
 ===================================
 
+.. attention::
+
+    These user documents are currently under active development and were last updated at 17:20 on Sunday 3rd November 2024.
+
 This is the documentation for Sheffield Hallam University Biomolecular Sciences Research Centre (BMRC) High Performance Computing (HPC) cluster.
 
 This service is provisioned by `Alces Flight Ltd <https://alces-flight.com/>`_ through `Digital Technology Services <https://www.shu.ac.uk/jobs/what-we-do-at-sheffield-hallam/professional-and-business-support-roles/digital-technology-services-dts-overview>`_ to meet the computational needs of researchers across all the Industry and Innovation Research Institute.
