@@ -1,3 +1,4 @@
+.. _hpc_training:
 
 HPC and Linux Training Resources
 ================================
