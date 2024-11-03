@@ -35,6 +35,7 @@ If you think there is information missing or needs changing, consider contributi
    :hidden:
    :caption: User Guides
 
+   hpc/index
    nfcore/index
 
 .. toctree::
